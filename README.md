@@ -1,3 +1,3 @@
 # aboutme
 This page is about me.
-<h1> My name is Charlene Sedano.</h1>
+<p>My name is Charlene Sedano.</p>
