@@ -8,7 +8,7 @@ alt = "Picture" />
 <hr/>
 <p>Here is a list of fun facts about me:</p>
 <p>I drive a beautiful maroon 07 Jeep Wrangler that I take with me everywhere I go. </p>
-<p>I have a white and grey husky named Layla</p>
-<p>I have two brothers and 2 sisters (I am the second youngest)</p>
+<p>I have a white and grey husky named Layla.</p>
+<p>I have two brothers and 2 sisters (I am the second youngest).</p>
 <p>I love the colour green!</p>
 <p>My fun facts aren't that fun.. I apologize.</p>
